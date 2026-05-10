@@ -74,13 +74,13 @@ col-12 col-md-6 col-lg-4
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/eliakimPaulino/responsive-bootstrap-page
 ```
 
 2. Abra o arquivo:
 
 ```bash
-index.html
+xdg-open index.html
 ```
 
 ---
