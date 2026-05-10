@@ -1,6 +1,7 @@
 # Layout Responsivo com Bootstrap 5
 
 Projeto desenvolvido para praticar conceitos fundamentais de responsividade utilizando Bootstrap 5.
+Acesse: https://eliakimpaulino.github.io/responsive-bootstrap-page/
 
 ## Objetivo
 
@@ -88,5 +89,3 @@ xdg-open index.html
 ## Preview
 
 Projeto desenvolvido para fins de estudo e prática com Bootstrap 5.
-
-Acesse: https://eliakimpaulino.github.io/responsive-bootstrap-page/
