@@ -1,0 +1,10 @@
+Durante o desenvolvimento da página responsiva utilizando o sistema de grid do Bootstrap 5,
+você pôde observar que o layout se adapta automaticamente a diferentes larguras de tela graças
+às classes de breakpoints (como col-12, col-md-6 e col-lg-4). Por que é importante compreender
+como esses breakpoints funcionam ao criar interfaces modernas, e como isso impacta
+diretamente a experiência do usuário em dispositivos distintos?
+
+Resposta: Porque interfaces modernas precisam fucnionar bem em vários tamanhos de tela:
+celular,tablet, notebook, monitores ultrawide e por aí vai. Hoke, a mesma pessos que consome 
+um site no computador, pode desejar acessar no celular. Então entender os breakpoints não é apenas
+detalhe visual, mas sim parte central da arquitetura de interface.
